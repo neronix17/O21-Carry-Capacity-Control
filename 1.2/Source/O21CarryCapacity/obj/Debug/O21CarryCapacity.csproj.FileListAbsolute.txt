@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] Carry Capacity Control\1.2\Assemblies\O21CarryCapacity.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] Carry Capacity Control\1.2\Source\O21CarryCapacity\obj\Debug\O21CarryCapacity.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] Carry Capacity Control\1.2\Source\O21CarryCapacity\obj\Debug\O21CarryCapacity.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[O21] Carry Capacity Control\1.2\Source\O21CarryCapacity\obj\Debug\O21CarryCapacity.dll
